@@ -1,0 +1,1 @@
+# vendor_samsung_j2lte
